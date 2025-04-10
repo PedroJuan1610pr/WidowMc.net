@@ -42,3 +42,19 @@
     font-size: 0.9em;
   }
   
+  .boton-ganadores {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+  }
+  
+  .boton-ganadores:hover {
+    background-color: #45a049;
+  }
+  
